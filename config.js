@@ -6,13 +6,13 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['0557641764', 'Action bwoy', true],
+global.owner = [action bwoy 
+  ['0557641764', 'suleman ganiw', true],
   ['6281255369012', 'Ash', true], 
   [''] 
 ] //0557641764
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //0557641764
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'suleman ganiw'
 global.premium = 'true'
 global.packname = 'Action bwoy' 
 global.author = '@suleman ganiw' 
