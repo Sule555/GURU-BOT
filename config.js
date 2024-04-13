@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [action bwoy 
   ['0557641764', 'suleman ganiw', true],
-  ['6281255369012', 'Ash', true], 
+  ['GuruBot~9jaxbvBW, 'Ash', true], 
   [''] 
 ] //0557641764
 
